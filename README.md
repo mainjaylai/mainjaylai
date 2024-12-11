@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning a lot of things
 - 📚 Here is my personal blog website: [![Blog](https://img.shields.io/badge/Blog-12100E?logo=blogger&logoColor=white
 )](https://blog.mainjay.cloudns.ch)
-- 👨 More about me: [![Me](https://img.shields.io/badge/Me-12100E?logo=Personio&logoColor=white)]([https://blog.mainjay.cloudns.ch](https://mainjay.cloudns.ch)) 
+- 👨 More about me: [![Me](https://img.shields.io/badge/Me-12100E?logo=Personio&logoColor=white)](https://mainjay.cloudns.ch) 
 
 - 📫 How to reach me: mainjaylai@outlook.com
 
